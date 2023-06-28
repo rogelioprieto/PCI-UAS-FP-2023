@@ -9,4 +9,4 @@ Fundamentos de la programación\
 
 ## Bitácora de cambios:
 
-1. En el archivo `o-progresion-aritmeticav02.c` se modificaron los tipos de datos de las variables `numero` y `resultado` (línea 4 y 5) para ampliar su capacidad de almacenamiento.
+1. En el archivo `o-progresion-aritmeticav02.c` se modificaron los tipos de datos de las variables `numero` y `resultado` (líneas 4 y 5) para ampliar su capacidad de almacenamiento.
